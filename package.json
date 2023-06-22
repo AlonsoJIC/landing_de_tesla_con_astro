@@ -1,5 +1,5 @@
 {
-  "name": "landing-con-astro",
+  "name": "tesla-landing",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,6 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.6.6"
+    "@astrojs/tailwind": "^3.1.2",
+    "astro": "^2.4.5",
+    "tailwindcss": "^3.3.2"
   }
 }
