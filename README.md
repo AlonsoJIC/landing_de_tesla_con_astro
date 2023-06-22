@@ -1,1 +1,9 @@
-![Captura-2023-05-15 001320](https://github.com/midudev/landing-tesla/assets/1561955/7aa648fc-0824-4ad1-9a36-7b2e4d272b53)
+Bienvenidos, esta landing page fue creada a fin de aprender la tecnología de Astro y practicar Tailwind.
+
+
+
+Se realizó en ayuda de un video de YouTube, pero al finalizar procedí a realizar todas las mejoras pertinentes que no se finiquitaron en el mismo video que únicamente explico como crear el header y el video principal de la pagina.
+
+
+
+Para utilizar el proyecto solo abren el proyecto e instalan las dependencias "npm i", únicamente con eso ya pueden correrlo con "npm run dev." Gracias!
